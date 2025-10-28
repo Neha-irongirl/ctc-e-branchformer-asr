@@ -4,20 +4,20 @@
 
 ctc-e-branchformer-asr/
 ├─ requirements.txt
-├─ data/
+├─ data /
 │  └─ (place LibriSpeech files or links here)
-├─ scripts/
+├─ scripts /
 │  ├─ build_lm.sh
 │  └─ prepare_manifest.py
-├─ src/
+├─ src /
 │  ├─ features.py
 │  ├─ model.py
 │  ├─ train.py
 │  ├─ decode.py
 │  └─ evaluate.py
-├─ configs/
+├─ configs /
 │  └─ config.yaml
-└─ assets/
+└─ assets /
    └─ (place training curves / sample outputs)
 
 
