@@ -1,9 +1,6 @@
 # ctc-e-branchformer-asr
 
-# Problem statement:This project implements a CTC-only Automatic Speech Recognition (ASR) system using the
-# E-Branchformer encoder, trained on the LibriSpeech 100-hour dataset. The model integrates a
-# Language Model (LM) during inference to enhance decoding accuracy and reduce Word Error Rate
-# (WER).
+# Problem statement:This project implements a CTC-only Automatic Speech Recognition (ASR) system using the E-Branchformer encoder, trained on the LibriSpeech 100-hour dataset. The model integrates a Language Model (LM) during inference to enhance decoding accuracy and reduce Word Error Rate(WER).
 
 ctc-e-branchformer-asr/
 ├─ README.md
